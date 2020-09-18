@@ -1,6 +1,16 @@
 # Kanyequotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
+How to run steps
+
+step 1: Install Angular by using below command ( If not installed)
+
+npm install -g @angular/cli
+  
+step 2 : git clone "repourl"
+step 3 : npm install (should have Node.js installed)
+step 4: run "ng serve" in terminal
+
 
 ## Development server
 
